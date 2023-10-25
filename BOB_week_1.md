@@ -8,7 +8,7 @@ comment: Content of week 1 WS 2023/2024
 icon: images/TUBAF_Logo_orig_RGB.jpg
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/EF_BOB_23/blob/main/week_1.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IUZ-LiaScript/EF_BOB_23/blob/main/BOB_week_1.md)
 
 # Week 1
 
