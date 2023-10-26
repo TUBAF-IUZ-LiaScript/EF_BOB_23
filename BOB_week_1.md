@@ -60,7 +60,7 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 ## Computer Science
 
 1. What Language is your favorite?
-2. What prgramming languages would you like to know?
+2. What programming languages would you like to know?
 3. Android or IOS or harmonyOS or jingpad?
 4. Windows, macOS or linux?
 5. What IDE do you use?
