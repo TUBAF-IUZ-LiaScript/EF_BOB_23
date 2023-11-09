@@ -70,6 +70,6 @@ icon: images/TUBAF_Logo_orig_RGB.jpg
 
 1. Did you learn any other languages? Which and how well do you speak them?
 2. What kind of music do you like most?
-3. 9What kind of games do you like (e.g. chess or LoL)?
+3. What kind of games do you like (e.g. chess or LoL)?
 4. What car do you drive?
 5. What drink do you like?
