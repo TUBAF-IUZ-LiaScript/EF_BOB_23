@@ -214,7 +214,7 @@ flowchart TD
 ## Concept map YH
 
 ```mermaid @mermaid
-flowchart TD
+flowchart TB
     A[grwon up orca female ] -->|give birth | B(orca calf )
     B --> C(female orca )
     B-->D(male orca)
@@ -225,7 +225,7 @@ flowchart TD
     G --> |feed themselfs| G
     A--> H(keeps feeding)
     H -->G
-    G --> |isn´t able bear another healty calf|A
+    G --> |after orca is grown up the mother isn´t able bear another healty calf|A
     H --> |don´t feed another younger calf| C
     H --> |don´t feed another younger calf| D
 
