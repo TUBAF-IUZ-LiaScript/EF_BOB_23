@@ -311,27 +311,5 @@ mindmap
 ## Concept map EN
 
 ```mermaid @mermaid
-mindmap
-  root((solar cells))
-    normal solar cells
-      made from silicon
-        only a narrow frequency
-      efficiency
-        29.4 per cent
-    improved solar sells
-        higher frequency with another material on top
-            perovskite
-                titanium and calcium crystal
-                better at absorbing light closer to infrared
-        two-strep process
-            coated in a layer of precusor chemicals
-            second layer of chemicals is added
-                reacts with the presusors to form perovskite
-        efficiency
-            only with perovskite
-                31.2 per cent
-                used by Swiss Federal Institute of Technology Lausanne
-            with added liquid piperazinium
-                32.5 per cent
-                used by Helmholtz-Zentrum Berlin
+
 ```
