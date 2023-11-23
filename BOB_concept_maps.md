@@ -77,7 +77,17 @@ flowchart TB
 ## Concept map RK
 
 ```mermaid @mermaid
-
+flowchart TD
+    A[new space telescope Euclid] 
+    A-->|European Space Agency ESA| B(launch an 1 July)
+    A-->C(designed to help solve mysteries of)
+    C---D(dark energy) 
+    C---E(dark matter)
+    D---|therefor has|F(two scientific instruments)
+    E---|therefore has|F
+    F---G(visible light camera)
+    F---H(near-infrared detector)
+    A---I(intended to observe a huge swathe of space)
 ```
 
 ## Concept map SH
@@ -105,30 +115,93 @@ flowchart
 ## Concept map OL
 
 ```mermaid @mermaid
-
+flowchart TD
+    Z2[raising global wealth, less poverty] --> A
+    Z[more eduction for woman] --> A[people having fewer children]
+    Z1[access to contraception] --> A 
+    A -->B(global population growth comes to an stop)
+    B -->C(estimations were reduced further for the peak of the global population)
+    C -->D[estimated peak at 2040 at 8.5 billion 
+    according to Earth4All Modell created by the Club of Rome ]
+    D -->E[fall of the population to 6 billion until the end of the century]
+    C -->F[consequences]
+    F -->G[decressing of active working people]
+    F -->H[will not help to fix the climate]
+    H -->H1[important tipping points will be reached to fast]
+    G --> G1[more difficulties to keep healthcare systems working]
+    H --> H2[a faster population decline would be needed 
+    for a more positive impact on the climate]
 ```
 
 ## Concept map BP
 
 ```mermaid @mermaid
-
+flowchart TB
+A[Tiny metal robot]
+A-->B[material]  
+A-->C[use]
+B-->D[galium, neodymium, iron and boron]
+C-->E[unnormal stuff]
+F-->G[can jump]
+F-->H[carry over 30x of own mass]
+E-->I[can melt and go through minimalistic spaces]
+A-->J[how]
+J-->K[magnetic field change]
 ```
+
 
 ## Concept map TR
 
 ```mermaid @mermaid
-
+flowchart LR
+D[src: doi.org/j6tw]
+A[Zebra finches]
+A-->|male|E[unique songs, >1000]
+E-->B[learned in first 90 days]
+E-->C[attract females, reproduction]
+A-->R[having break from crooning]
+R-->w[result: lower pitch, shorter length]
+R-->S[experiment: stopped 16 from singing]
+S-->z[weight on neck]
+w-->t[reason: lack of muscle use]
+F[Suspection]-->k[other birds need practise daily too]
 ```
 
 ## Concept map FG
 
 ```mermaid @mermaid
-
+flowchart TD
+    A[Splitting of humans from common ancestor] --> B(Neanderthals and Denisovian)
+    B --> |Moving north| C[effect on sleep-wake cycles]
+    B -->|interbreeding| D[inheritence of genoms]
+    D --> E(Modified cycles in Europeans)
+    F --> E 
+    H --> F[Survival Benefit]
+    E --> G(Morning people)
+    C --> H(faster adptation to changes in day night cycle)
 ```
 
 ## Concept map HG
 
 ```mermaid @mermaid
+flowchart TD
+     C{frozen flower in amber}
+    C --> D[size]
+    D --> H[worlds largest flower in amber
+        three times as large as other flower fossils ]
+    D --> I[28 millimeters in diameter]
+    D --> L[five-petalled flower]
+    C --> E[origin]
+    E --> J[discovered and described in 1872]
+    E --> K[around 33.9 to 38 million yeras old]
+    E -->G[was found in a mine in russia]
+    C -->F[analys]
+    F -->|focus on its pollen| M[s]
+    C --> |the first descirbtion| N[categorised as coming from evergeen
+            plant called stewartina kowalewskii ]
+    N -->  |wrong| M[similarities with pollen from the modern flower Symplocos]
+    M --> O[renamed the fossil to Symplocos kowalewskii]      
+
 
 ```
 
@@ -155,18 +228,36 @@ flowchart TD
     G --> |isn´t able bear another healty calf|A
     H --> |don´t feed another younger calf| C
     H --> |don´t feed another younger calf| D
+
 ```
 
 ## Concept map MB
 
 ```mermaid @mermaid
-
+flowchart TD     
+A[Real life on mars] --> B{building a city}-->b(problems)     
+b-->C(Energy)-->c(huge solar fields)     
+b-->D(Radiation)-->d(Building underground)     
+b-->E(Resources)-->e(mining)    
+c-->F{Money and Science}     
+d-->F     
+e-->F              
 ```
 
 ## Concept map BM
 
 ```mermaid @mermaid
-
+flowchart TD
+    A[plant alga] -->|grow for 50 years|B(become a conglomeration of one independent organisms)
+    B --> C{what is inside?}
+    C -->D[bacteria]
+    C -->E[viruses within bacteria]
+    D --> F[strange]
+    E --> F 
+    F --> J[symbiosis is not unusual, in plant cells] --> |however|O[Algae is not a plant cell]
+    F -->|lets look| G[sequence all the DNA]
+    G -->K[Symbiosis, but how?]
+    K-->|don´t know|N[There must be a balance]
 ```
 
 ## Concept map NS
@@ -184,17 +275,63 @@ flowchart TD
 ## Concept map LT
 
 ```mermaid @mermaid
-
+flowchart TD
+    X{$2billion}-->|invested in|A
+    A[[Lab-grown meat]]-->|does|B[produce 4-25 times more CO2]
+    A[[Lab-grown meat]]-->|could|C(be greener than regular beef)
+    C-->|coming with|D(lesser/no slaugther of livestock fa:fa-cow)
+    C-->|coming with|E(no need for farming facilities)
+    E-->F(less land needed)
+    B-->|because of|G[production components]
+    G-->H[nutrients]
+    G-->J[vitamins and medication]
+    
 ```
 
 ## Concept map CR
 
 ```mermaid @mermaid
 
+mindmap
+  root((Digital Playtime))
+    Negative Mindset
+        parent concerns
+          addiction
+         too much time spend
+     no time to deal with topic
+        dont have time to waste mindset?
+    Positive Mindset
+      fond chilhood memories
+      share video game journey of kids with parents, instead of fighting against it
+     improved competence, social connection
+     also experience violent part of world
+
 ```
 
 ## Concept map EN
 
 ```mermaid @mermaid
-
-```
+mindmap
+  root((solar cells))
+    normal solar cells
+      made from silicon
+        only a narrow frequency
+      efficiency
+        29.4 per cent
+    improved solar sells
+        higher frequency with another material on top
+            perovskite
+                titanium and calcium crystal
+                better at absorbing light closer to infrared
+        two-strep process
+            coated in a layer of precusor chemicals
+            second layer of chemicals is added
+                reacts with the presusors to form perovskite
+        efficiency
+            only with perovskite
+                31.2 per cent
+                used by Swiss Federal Institute of Technology Lausanne
+            with added liquid piperazinium
+                32.5 per cent
+                used by Helmholtz-Zentrum Berlin
+        
