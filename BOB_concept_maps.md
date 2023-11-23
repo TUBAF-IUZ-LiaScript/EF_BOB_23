@@ -83,7 +83,23 @@ flowchart TB
 ## Concept map SH
 
 ```mermaid @mermaid
-
+flowchart 
+    A[Quantum Computing >QC<] 
+    A-->B[successful research progress at Google]
+    A-->C[Problem: Qubits in QC interference and create errors]
+    B-->D(Google research demonstrated possible scaling of quantum error correction)
+    C-->D
+    D-->E(logical Qubits can be build bigger)
+    D-->F(error interference can be reduced)
+    D-->G(Google researchers believe in useful QC within years)
+    E-->I[Problem: scaling up to bigger logical Qubits will 
+    require a big step forward in hardware]
+    F-->H[small improvement but in theory scaling up is possible]
+    G-->J[>>There is palable confidence that a commercially useful 
+    device will be created<< -Hartmud Neven at Google]
+    H-->K(CONCLUSION: overall confidence in scalable quantum error correction in the future is pretty high)
+    I-->K
+    J-->K
 ```
 
 ## Concept map OL
@@ -125,7 +141,20 @@ flowchart TB
 ## Concept map YH
 
 ```mermaid @mermaid
-
+flowchart TD
+    A[grwon up orca female ] -->|give birth | B(orca calf )
+    B --> C(female orca )
+    B-->D(male orca)
+    C -->|feed| F(orca grows up)
+    F --> |feed themselfs| F
+    F --> |cycle repeats| A
+    D --> |feed| G(Orca grows up)
+    G --> |feed themselfs| G
+    A--> H(keeps feeding)
+    H -->G
+    G --> |isn´t able bear another healty calf|A
+    H --> |don´t feed another younger calf| C
+    H --> |don´t feed another younger calf| D
 ```
 
 ## Concept map MB
