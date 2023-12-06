@@ -14,6 +14,8 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 # Concept maps
 
+Students in the course Introduction to English for Specific Purposes for Mathematics and Computer Science read articles in hard copies of the New Scientist magazine and made flow charts of the content.
+
 ## sample map
 
 ```mermaid @mermaid
@@ -207,9 +209,7 @@ flowchart TD
 
 ## Concept map NW
 
-```mermaid @mermaid
- 
-```
+> To be submitted ...
 
 ## Concept map YH
 
@@ -262,15 +262,11 @@ flowchart TD
 
 ## Concept map NS
 
-```mermaid @mermaid
-
-```
+> To be submitted ...
 
 ## Concept map KS
 
-```mermaid @mermaid
-
-```
+> To be submitted ...
 
 ## Concept map LT
 
@@ -310,6 +306,4 @@ mindmap
 
 ## Concept map EN
 
-```mermaid @mermaid
-
-```
+> To be submitted ...
